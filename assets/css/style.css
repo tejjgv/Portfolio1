@@ -215,7 +215,11 @@ body { background: var(--smoky-black); }
   z-index: 1; /* Ensure text stays above the animation */
 }
 
-
+.company-name {
+  font-style: italic;
+  color: #555; /* You can adjust this color */
+  margin-left: 10px; /* Adds some spacing */
+}
 
 
 
